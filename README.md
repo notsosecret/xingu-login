@@ -1,10 +1,13 @@
 # xingu-login
 
+Install the required packages with:
+```
+pip install -r requirements.txt
+```
+Start the server with:
+```
+uvicorn main:app
+```
+Open the website at:
 
-Can be started using:
-
-fastapi dev main.py
-
-Start here:
-
-http://127.0.0.1:8000/index
+[http://127.0.0.1:8000/](http://127.0.0.1:8000/)

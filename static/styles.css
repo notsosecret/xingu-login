@@ -2,7 +2,7 @@ body {
     background: #011F33
 }
 
-#modalWrapper{
+#modal-wrapper{
     display: none;
     &.modal-open {
         display: block;
